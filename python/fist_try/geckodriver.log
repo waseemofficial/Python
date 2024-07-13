@@ -1,0 +1,668 @@
+1666088661781	geckodriver	INFO	Listening on 127.0.0.1:39653
+1666088665389	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "39654" "-no-remote" "-profile" "C:\\Users\\ACER\\AppData\\Local\\Temp\\rust_mozprofileVHILOU"
+1666088666878	Marionette	INFO	Marionette enabled
+1666088666892	Marionette	INFO	Listening on port 39661
+WebDriver BiDi listening on ws://127.0.0.1:39654
+1666088668075	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ACER\\AppData\\Local\\Temp\\rust_mozprofileVHILOU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:39654/devtools/browser/e1b0657f-c0a5-4b36-8e67-143a29f749bc
+1666088709780	Marionette	INFO	Stopped listening on port 39661
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+1666088740969	geckodriver	INFO	Listening on 127.0.0.1:39803
+1666088744033	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "39804" "-no-remote" "-profile" "C:\\Users\\ACER\\AppData\\Local\\Temp\\rust_mozprofileTdm3oO"
+1666088745506	Marionette	INFO	Marionette enabled
+1666088745511	Marionette	INFO	Listening on port 39814
+WebDriver BiDi listening on ws://127.0.0.1:39804
+1666088745951	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ACER\\AppData\\Local\\Temp\\rust_mozprofileTdm3oO\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:39804/devtools/browser/93385a6a-ff88-433f-81c9-c9d17fcac209
+1666088842338	Marionette	INFO	Stopped listening on port 39814
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+e" "--remote-debugging-port" "40457" "-no-remote" "-profile" "C:\\Users\\ACER\\AppData\\Local\\Temp\\rust_mozprofilehv3ADy"
+1666088805541	Marionette	INFO	Marionette enabled
+1666088805549	Marionette	INFO	Listening on port 40468
+WebDriver BiDi listening on ws://127.0.0.1:40457
+1666088807686	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ACER\\AppData\\Local\\Temp\\rust_mozprofilehv3ADy\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:40457/devtools/browser/9d1c5936-7ea0-4048-b25a-0a86e1a53a23
+1666088823890	Marionette	INFO	Stopped listening on port 40468
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666088908346	geckodriver	INFO	Listening on 127.0.0.1:40898
+1666088911361	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "40899" "-no-remote" "-profile" "C:\\Users\\ACER\\AppData\\Local\\Temp\\rust_mozprofileTqp1jR"
+1666088912560	Marionette	INFO	Marionette enabled
+1666088912566	Marionette	INFO	Listening on port 40909
+WebDriver BiDi listening on ws://127.0.0.1:40899
+1666088914732	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ACER\\AppData\\Local\\Temp\\rust_mozprofileTqp1jR\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:40899/devtools/browser/b779209d-d717-4431-9df2-343a5b3048f8
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1666088923604	Marionette	INFO	Stopped listening on port 40909
+1666088954850	geckodriver	INFO	Listening on 127.0.0.1:41063
+1666088957735	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "41064" "-no-remote" "-profile" "C:\\Users\\ACER\\AppData\\Local\\Temp\\rust_mozprofile9VG34m"
+1666088958494	Marionette	INFO	Marionette enabled
+1666088958504	Marionette	INFO	Listening on port 41074
+WebDriver BiDi listening on ws://127.0.0.1:41064
+1666088960106	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1666088988888	geckodriver	INFO	Listening on 127.0.0.1:41118
+1666088991808	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "41119" "-no-remote" "-profile" "C:\\Users\\ACER\\AppData\\Local\\Temp\\rust_mozprofileQhzyfF"
+1666088992588	Marionette	INFO	Marionette enabled
+1666088992594	Marionette	INFO	Listening on port 41126
+WebDriver BiDi listening on ws://127.0.0.1:41119
+1666088994416	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ACER\\AppData\\Local\\Temp\\rust_mozprofileQhzyfF\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:41119/devtools/browser/23342762-e84c-44fc-be57-4be9d5cdb3c9
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1666088998627	Marionette	INFO	Stopped listening on port 41126
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 380))
+JavaScript error: resource://gre/modules/CrashManager.jsm, line 905: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
+1666089364268	geckodriver	INFO	Listening on 127.0.0.1:41573
+1666089367904	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "41574" "-no-remote" "-profile" "C:\\Users\\ACER\\AppData\\Local\\Temp\\rust_mozprofileAsjgsj"
+1666089368502	Marionette	INFO	Marionette enabled
+1666089368509	Marionette	INFO	Listening on port 41581
+WebDriver BiDi listening on ws://127.0.0.1:41574
+1666089370131	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ACER\\AppData\\Local\\Temp\\rust_mozprofileAsjgsj\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:41574/devtools/browser/3cfc2ea7-78b2-485e-95cd-4f1291949448
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1666089375356	Marionette	INFO	Stopped listening on port 41581
+console.error: "Could not load engine wikipedia@search.mozilla.org: Error: Data is not ready."
+console.error: "Could not load engine bing@search.mozilla.org: TypeError: AddonManagerInternal._getProviderByName(...) is undefined"
+console.error: "Could not load engine ddg@search.mozilla.org: TypeError: AddonManagerInternal._getProviderByName(...) is undefined"
+console.warn: SearchService: "#init: abandoning init due to shutting down"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: uncaught exception: 2147500036
+1666108212944	geckodriver	INFO	Listening on 127.0.0.1:31107
+1666108215924	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "31108" "-no-remote" "-profile" "C:\\Users\\ACER\\AppData\\Local\\Temp\\rust_mozprofilejJu4tY"
+1666108217235	Marionette	INFO	Marionette enabled
+1666108217281	Marionette	INFO	Listening on port 31115
+WebDriver BiDi listening on ws://127.0.0.1:31108
+1666108218322	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ACER\\AppData\\Local\\Temp\\rust_mozprofilejJu4tY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:31108/devtools/browser/3f94410b-5235-43da-9245-84ca92c37b63
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://trytestingthis.netlify.app."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1666108521658	Marionette	INFO	Stopped listening on port 31115
+1666121109455	geckodriver	INFO	Listening on 127.0.0.1:28344
+1666121112498	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "28345" "-no-remote" "-profile" "C:\\Users\\ACER\\AppData\\Local\\Temp\\rust_mozprofile9vkY1r"
+1666121113071	Marionette	INFO	Marionette enabled
+1666121113079	Marionette	INFO	Listening on port 28354
+WebDriver BiDi listening on ws://127.0.0.1:28345
+1666121114393	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ACER\\AppData\\Local\\Temp\\rust_mozprofile9vkY1r\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:28345/devtools/browser/916ab25d-7e83-410d-8581-d8cfe77720da
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1666121122534	Marionette	INFO	Stopped listening on port 28354
+[Parent 13208, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:723
+[Parent 13208, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1666123567925	geckodriver	INFO	Listening on 127.0.0.1:30329
+1666123570990	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "30330" "-no-remote" "-profile" "C:\\Users\\ACER\\AppData\\Local\\Temp\\rust_mozprofileHS2Enb"
+1666123620980	geckodriver	INFO	Listening on 127.0.0.1:30401
+1666123625607	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "30402" "-no-remote" "-profile" "C:\\Users\\ACER\\AppData\\Local\\Temp\\rust_mozprofilesZ1vOl"
+1666123627693	Marionette	INFO	Marionette enabled
+1666123627705	Marionette	INFO	Listening on port 30451
+WebDriver BiDi listening on ws://127.0.0.1:30402
+1666123627884	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ACER\\AppData\\Local\\Temp\\rust_mozprofilesZ1vOl\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:30402/devtools/browser/1c03f624-20f3-414a-8732-20958f7015ca
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1666123636158	Marionette	INFO	Stopped listening on port 30451
+[Parent 8740, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+1666123854764	geckodriver	INFO	Listening on 127.0.0.1:31122
+1666123857860	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "31123" "-no-remote" "-profile" "C:\\Users\\ACER\\AppData\\Local\\Temp\\rust_mozprofilej2eyKh"
+1666123858988	Marionette	INFO	Marionette enabled
+1666123858996	Marionette	INFO	Listening on port 31131
+WebDriver BiDi listening on ws://127.0.0.1:31123
+1666123860260	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ACER\\AppData\\Local\\Temp\\rust_mozprofilej2eyKh\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:31123/devtools/browser/cf82e8a0-3ae8-4742-9db9-c2712ec15e8e
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1666123865237	Marionette	INFO	Stopped listening on port 31131
+1666125271565	geckodriver	INFO	Listening on 127.0.0.1:32248
+1666125274628	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "32249" "-no-remote" "-profile" "C:\\Users\\ACER\\AppData\\Local\\Temp\\rust_mozprofile6F7tI4"
+1666125275271	Marionette	INFO	Marionette enabled
+1666125275279	Marionette	INFO	Listening on port 32258
+WebDriver BiDi listening on ws://127.0.0.1:32249
+1666125276746	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ACER\\AppData\\Local\\Temp\\rust_mozprofile6F7tI4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:32249/devtools/browser/53a8c20d-fb72-444c-9376-cf46a2098235
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1666125291202	Marionette	INFO	Stopped listening on port 32258
+1666128634881	geckodriver	INFO	Listening on 127.0.0.1:34056
+1666128639246	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "34057" "-no-remote" "-profile" "C:\\Users\\ACER\\AppData\\Local\\Temp\\rust_mozprofilePnFDG4"
+1666128641519	Marionette	INFO	Marionette enabled
+1666128641524	Marionette	INFO	Listening on port 34063
+WebDriver BiDi listening on ws://127.0.0.1:34057
+1666128646176	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ACER\\AppData\\Local\\Temp\\rust_mozprofilePnFDG4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:34057/devtools/browser/0eb72b14-dfdb-43d1-b0e4-2150bcac4ed8
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1666128661397	Marionette	INFO	Stopped listening on port 34063
+!!! error running onStopped callback: TypeError: callback is not a function
+[Parent 2592, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1666128677802	geckodriver	INFO	Listening on 127.0.0.1:34301
+1666128680846	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "34302" "-no-remote" "-profile" "C:\\Users\\ACER\\AppData\\Local\\Temp\\rust_mozprofilezEAvam"
+1666128681391	Marionette	INFO	Marionette enabled
+1666128681397	Marionette	INFO	Listening on port 34310
+WebDriver BiDi listening on ws://127.0.0.1:34302
+1666128682703	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ACER\\AppData\\Local\\Temp\\rust_mozprofilezEAvam\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:34302/devtools/browser/464834cf-beda-4e83-b0dc-dfb08b293d98
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1666128697207	Marionette	INFO	Stopped listening on port 34310
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 719: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1666128738736	geckodriver	INFO	Listening on 127.0.0.1:34658
+1666128741776	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "34659" "-no-remote" "-profile" "C:\\Users\\ACER\\AppData\\Local\\Temp\\rust_mozprofile4r0jsS"
+1666128742265	Marionette	INFO	Marionette enabled
+1666128742273	Marionette	INFO	Listening on port 34665
+WebDriver BiDi listening on ws://127.0.0.1:34659
+1666128742409	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ACER\\AppData\\Local\\Temp\\rust_mozprofile4r0jsS\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:34659/devtools/browser/be57f66f-dfb8-4b69-9338-9a1ab7765923
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1666128757980	Marionette	INFO	Stopped listening on port 34665
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 719: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1666128875120	geckodriver	INFO	Listening on 127.0.0.1:35057
+1666128878792	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "35058" "-no-remote" "-profile" "C:\\Users\\ACER\\AppData\\Local\\Temp\\rust_mozprofileXOis3o"
+1666128879313	Marionette	INFO	Marionette enabled
+1666128879323	Marionette	INFO	Listening on port 35065
+WebDriver BiDi listening on ws://127.0.0.1:35058
+1666128880770	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ACER\\AppData\\Local\\Temp\\rust_mozprofileXOis3o\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:35058/devtools/browser/1de77cd4-736c-4c0e-a96d-27be75dc9037
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1666128895409	Marionette	INFO	Stopped listening on port 35065
+!!! error running onStopped callback: TypeError: callback is not a function
+[Parent 10072, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1666128923914	geckodriver	INFO	Listening on 127.0.0.1:35321
+1666128927707	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "35322" "-no-remote" "-profile" "C:\\Users\\ACER\\AppData\\Local\\Temp\\rust_mozprofileyRNPtP"
+1666128928204	Marionette	INFO	Marionette enabled
+1666128928211	Marionette	INFO	Listening on port 35328
+WebDriver BiDi listening on ws://127.0.0.1:35322
+1666128928435	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ACER\\AppData\\Local\\Temp\\rust_mozprofileyRNPtP\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:35322/devtools/browser/cbab67f7-9a97-4bff-abc9-faa094463923
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1666129076425	Marionette	INFO	Stopped listening on port 35328
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 14436, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+1666128974969	Marionette	INFO	Marionette enabled
+1666128974977	Marionette	INFO	Listening on port 35410
+WebDriver BiDi listening on ws://127.0.0.1:35402
+1666128976225	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ACER\\AppData\\Local\\Temp\\rust_mozprofileDfExM1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:35402/devtools/browser/3e7d9c1b-0580-415e-a410-086c513f96cc
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1666128990825	Marionette	INFO	Stopped listening on port 35410
+[Parent 14104, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1666129049698	geckodriver	INFO	Listening on 127.0.0.1:35736
+1666129052765	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "35737" "-no-remote" "-profile" "C:\\Users\\ACER\\AppData\\Local\\Temp\\rust_mozprofilewmaz1F"
+1666129053426	Marionette	INFO	Marionette enabled
+1666129053435	Marionette	INFO	Listening on port 35744
+WebDriver BiDi listening on ws://127.0.0.1:35737
+1666129054890	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ACER\\AppData\\Local\\Temp\\rust_mozprofilewmaz1F\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:35737/devtools/browser/9477bbff-4100-4601-af7c-33e45d8708dc
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1666129069559	Marionette	INFO	Stopped listening on port 35744
+1666130324522	geckodriver	INFO	Listening on 127.0.0.1:37263
+1666130327584	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "37264" "-no-remote" "-profile" "C:\\Users\\ACER\\AppData\\Local\\Temp\\rust_mozprofileiVZwmQ"
+1666130328886	Marionette	INFO	Marionette enabled
+1666130328892	Marionette	INFO	Listening on port 37273
+WebDriver BiDi listening on ws://127.0.0.1:37264
+1666130330261	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ACER\\AppData\\Local\\Temp\\rust_mozprofileiVZwmQ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:37264/devtools/browser/28f54c8c-0b87-421e-bda3-d63dc765b974
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1666130370129	Marionette	INFO	Stopped listening on port 37273
+1666130447231	geckodriver	INFO	Listening on 127.0.0.1:37414
+1666130450301	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "37415" "-no-remote" "-profile" "C:\\Users\\ACER\\AppData\\Local\\Temp\\rust_mozprofile3uwhR1"
+1666130451008	Marionette	INFO	Marionette enabled
+1666130451014	Marionette	INFO	Listening on port 37422
+WebDriver BiDi listening on ws://127.0.0.1:37415
+1666130452374	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ACER\\AppData\\Local\\Temp\\rust_mozprofile3uwhR1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:37415/devtools/browser/8e8620b6-a5cc-4b8d-89fa-2da0057a657a
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1666130482865	Marionette	INFO	Stopped listening on port 37422
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 14104, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1666130585353	geckodriver	INFO	Listening on 127.0.0.1:37598
+1666130588412	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "37599" "-no-remote" "-profile" "C:\\Users\\ACER\\AppData\\Local\\Temp\\rust_mozprofileJPnIXR"
+1666130588923	Marionette	INFO	Marionette enabled
+1666130588929	Marionette	INFO	Listening on port 37607
+WebDriver BiDi listening on ws://127.0.0.1:37599
+1666130590462	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ACER\\AppData\\Local\\Temp\\rust_mozprofileJPnIXR\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:37599/devtools/browser/f270c319-3fa4-4afe-8d5c-0e7ac23169af
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://trytestingthis.netlify.app."
+1666130631271	Marionette	INFO	Stopped listening on port 37607
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 9956, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1666130636099	geckodriver	INFO	Listening on 127.0.0.1:37703
+1666130639155	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "37704" "-no-remote" "-profile" "C:\\Users\\ACER\\AppData\\Local\\Temp\\rust_mozprofileyFUhPo"
+1666130639638	Marionette	INFO	Marionette enabled
+1666130639648	Marionette	INFO	Listening on port 37712
+WebDriver BiDi listening on ws://127.0.0.1:37704
+1666130639779	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ACER\\AppData\\Local\\Temp\\rust_mozprofileyFUhPo\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:37704/devtools/browser/2fd0bd68-8269-4355-8484-56a26ca03af7
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://trytestingthis.netlify.app."
+1666130652721	Marionette	INFO	Stopped listening on port 37712
+!!! error running onStopped callback: TypeError: callback is not a function
+[Parent 13292, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1666130743240	geckodriver	INFO	Listening on 127.0.0.1:38197
+1666130746499	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "38198" "-no-remote" "-profile" "C:\\Users\\ACER\\AppData\\Local\\Temp\\rust_mozprofileQNwbzA"
+1666130747151	Marionette	INFO	Marionette enabled
+1666130747164	Marionette	INFO	Listening on port 38205
+WebDriver BiDi listening on ws://127.0.0.1:38198
+1666130749482	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ACER\\AppData\\Local\\Temp\\rust_mozprofileQNwbzA\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:38198/devtools/browser/18cac2ba-35d2-4f3f-9936-a81a87a6052d
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://trytestingthis.netlify.app."
+1666130826143	Marionette	INFO	Stopped listening on port 38205
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666131020057	geckodriver	INFO	Listening on 127.0.0.1:38486
+1666131023153	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "38487" "-no-remote" "-profile" "C:\\Users\\ACER\\AppData\\Local\\Temp\\rust_mozprofileBURr4x"
+1666131023659	Marionette	INFO	Marionette enabled
+1666131023666	Marionette	INFO	Listening on port 38497
+WebDriver BiDi listening on ws://127.0.0.1:38487
+1666131023814	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ACER\\AppData\\Local\\Temp\\rust_mozprofileBURr4x\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:38487/devtools/browser/b368f551-098f-4eb6-882e-b279cc6ca1b5
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://trytestingthis.netlify.app."
+1666131035336	Marionette	INFO	Stopped listening on port 38497
+1666214174935	geckodriver	INFO	Listening on 127.0.0.1:4850
+1666214178174	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "4851" "-no-remote" "-profile" "C:\\Users\\ACER\\AppData\\Local\\Temp\\rust_mozprofilejd47zI"
+1666214179895	Marionette	INFO	Marionette enabled
+1666214179910	Marionette	INFO	Listening on port 4858
+WebDriver BiDi listening on ws://127.0.0.1:4851
+1666214181734	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ACER\\AppData\\Local\\Temp\\rust_mozprofilejd47zI\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:4851/devtools/browser/00e9d1a3-4ee8-4c8a-8a6b-9733be94fe75
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1666214204364	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: resource://gre/modules/Prompter.jsm, line 1188: NS_ERROR_NOT_AVAILABLE: prompt aborted by user
+1666214223290	Marionette	INFO	Stopped listening on port 4858
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 12472, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+BiDi listening on ws://127.0.0.1:4963
+1666214210387	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ACER\\AppData\\Local\\Temp\\rust_mozprofileD2r2LY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:4963/devtools/browser/f404dd23-6006-4023-b084-4df84d513f15
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1666214223889	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1666214230003	Marionette	INFO	Stopped listening on port 4978
+[Parent 15100, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1666214679012	geckodriver	INFO	Listening on 127.0.0.1:5742
+1666214682640	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "5743" "-no-remote" "-profile" "C:\\Users\\ACER\\AppData\\Local\\Temp\\rust_mozprofilexSVaf2"
+1666214683149	Marionette	INFO	Marionette enabled
+1666214683159	Marionette	INFO	Listening on port 5756
+WebDriver BiDi listening on ws://127.0.0.1:5743
+1666214685100	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ACER\\AppData\\Local\\Temp\\rust_mozprofilexSVaf2\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:5743/devtools/browser/3445bcdb-8c84-42c9-95cd-10acc52ba179
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1666214689895	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: resource://gre/modules/Prompter.jsm, line1666214955704	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "6204" "-no-remote" "-profile" "C:\\Users\\ACER\\AppData\\Local\\Temp\\rust_mozprofileKNXa9g"
+1666214956298	Marionette	INFO	Marionette enabled
+1666214956306	Marionette	INFO	Listening on port 6215
+WebDriver BiDi listening on ws://127.0.0.1:6204
+1666214959561	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ACER\\AppData\\Local\\Temp\\rust_mozprofileKNXa9g\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:6204/devtools/browser/994a67f0-da42-4818-92c6-17a3460985e0
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1666214966337	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1666215005497	Marionette	INFO	Stopped listening on port 6215
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666215016839	geckodriver	INFO	Listening on 127.0.0.1:6382
+1666215020160	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "6383" "-no-remote" "-profile" "C:\\Users\\ACER\\AppData\\Local\\Temp\\rust_mozprofileVPSXiy"
+1666215021099	Marionette	INFO	Marionette enabled
+1666215021105	Marionette	INFO	Listening on port 6391
+WebDriver BiDi listening on ws://127.0.0.1:6383
+1666215022014	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ACER\\AppData\\Local\\Temp\\rust_mozprofileVPSXiy\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:6383/devtools/browser/6429ce60-71a0-4a91-9f45-e1720c642caf
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1666215104531	Marionette	INFO	Stopped listening on port 6391
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 12236, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:723
+1666215145425	geckodriver	INFO	Listening on 127.0.0.1:6665
+1666215149108	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "6666" "-no-remote" "-profile" "C:\\Users\\ACER\\AppData\\Local\\Temp\\rust_mozprofileeMdkxk"
+1666215149795	Marionette	INFO	Marionette enabled
+1666215149805	Marionette	INFO	Listening on port 6677
+WebDriver BiDi listening on ws://127.0.0.1:6666
+1666215151637	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ACER\\AppData\\Local\\Temp\\rust_mozprofileeMdkxk\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:6666/devtools/browser/e0bb9ed0-00f6-46c0-b098-5653691fafa2
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1666215191150	Marionette	INFO	Stopped listening on port 6677
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666215194320	geckodriver	INFO	Listening on 127.0.0.1:6786
+1666215197381	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "6787" "-no-remote" "-profile" "C:\\Users\\ACER\\AppData\\Local\\Temp\\rust_mozprofileqNZYlJ"
+1666215198001	Marionette	INFO	Marionette enabled
+1666215198011	Marionette	INFO	Listening on port 6797
+WebDriver BiDi listening on ws://127.0.0.1:6787
+1666215199674	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ACER\\AppData\\Local\\Temp\\rust_mozprofileqNZYlJ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:6787/devtools/browser/3b4483c2-6063-4a25-a838-f364991419e6
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1666215232286	Marionette	INFO	Stopped listening on port 6797
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+1666215502118	geckodriver	INFO	Listening on 127.0.0.1:7578
+1666215505160	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "7579" "-no-remote" "-profile" "C:\\Users\\ACER\\AppData\\Local\\Temp\\rust_mozprofileMV76tZ"
+1666215506435	Marionette	INFO	Marionette enabled
+1666215506441	Marionette	INFO	Listening on port 7588
+WebDriver BiDi listening on ws://127.0.0.1:7579
+1666215508311	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ACER\\AppData\\Local\\Temp\\rust_mozprofileMV76tZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:7579/devtools/browser/994eff50-5edc-4248-b121-87fb15a18fe9
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1666215597165	Marionette	INFO	Stopped listening on port 7588
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666215601175	geckodriver	INFO	Listening on 127.0.0.1:8006
+1666215604231	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "8007" "-no-remote" "-profile" "C:\\Users\\ACER\\AppData\\Local\\Temp\\rust_mozprofile2jIPjW"
+1666215604761	Marionette	INFO	Marionette enabled
+1666215604771	Marionette	INFO	Listening on port 8017
+WebDriver BiDi listening on ws://127.0.0.1:8007
+1666215608402	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ACER\\AppData\\Local\\Temp\\rust_mozprofile2jIPjW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:8007/devtools/browser/30355eef-b843-475d-bee1-3de76ce86e6f
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1666215615664	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1666215776338	Marionette	INFO	Stopped listening on port 8017
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666215972773	geckodriver	INFO	Listening on 127.0.0.1:9151
+1666215975853	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "9152" "-no-remote" "-profile" "C:\\Users\\ACER\\AppData\\Local\\Temp\\rust_mozprofilepEISCJ"
+1666215976408	Marionette	INFO	Marionette enabled
+1666215976415	Marionette	INFO	Listening on port 9161
+WebDriver BiDi listening on ws://127.0.0.1:9152
+1666215978055	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ACER\\AppData\\Local\\Temp\\rust_mozprofilepEISCJ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:9152/devtools/browser/c140da2d-1964-43a0-aad4-51d1382712c9
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1666215983866	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1666215994126	Marionette	INFO	Stopped listening on port 9161
+1666216038424	geckodriver	INFO	Listening on 127.0.0.1:9451
+1666216041450	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "9452" "-no-remote" "-profile" "C:\\Users\\ACER\\AppData\\Local\\Temp\\rust_mozprofilePZAAST"
+1666216042062	Marionette	INFO	Marionette enabled
+1666216042075	Marionette	INFO	Listening on port 9459
+WebDriver BiDi listening on ws://127.0.0.1:9452
+1666216043836	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ACER\\AppData\\Local\\Temp\\rust_mozprofilePZAAST\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:9452/devtools/browser/821aa583-5671-444c-a6b6-6c9c09710c08
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1666216048315	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1666216058127	Marionette	INFO	Stopped listening on port 9459
+[Parent 12236, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1666216094837	geckodriver	INFO	Listening on 127.0.0.1:9721
+1666216098334	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "9722" "-no-remote" "-profile" "C:\\Users\\ACER\\AppData\\Local\\Temp\\rust_mozprofile1kcldQ"
+1666216098725	Marionette	INFO	Marionette enabled
+1666216098733	Marionette	INFO	Listening on port 9730
+WebDriver BiDi listening on ws://127.0.0.1:9722
+1666216101626	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ACER\\AppData\\Local\\Temp\\rust_mozprofile1kcldQ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:9722/devtools/browser/a5812a59-d3d3-4257-864b-2524b5d30cc5
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1666216106967	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1666216116728	Marionette	INFO	Stopped listening on port 9730
+[Parent 7952, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1666216637231	geckodriver	INFO	Listening on 127.0.0.1:1226
+1666216640305	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "1227" "-no-remote" "-profile" "C:\\Users\\ACER\\AppData\\Local\\Temp\\rust_mozprofilepB0gzC"
+1666216640794	Marionette	INFO	Marionette enabled
+1666216640802	Marionette	INFO	Listening on port 1237
+WebDriver BiDi listening on ws://127.0.0.1:1227
+1666216640938	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ACER\\AppData\\Local\\Temp\\rust_mozprofilepB0gzC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:1227/devtools/browser/6bb756ed-11b1-4bfc-ba26-29b90bbb1205
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1666216647489	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1666216657220	Marionette	INFO	Stopped listening on port 1237
+1666216784251	geckodriver	INFO	Listening on 127.0.0.1:1729
+1666216787314	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "1730" "-no-remote" "-profile" "C:\\Users\\ACER\\AppData\\Local\\Temp\\rust_mozprofileHsDKt0"
+1666216787801	Marionette	INFO	Marionette enabled
+1666216787808	Marionette	INFO	Listening on port 1739
+WebDriver BiDi listening on ws://127.0.0.1:1730
+1666216787947	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ACER\\AppData\\Local\\Temp\\rust_mozprofileHsDKt0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:1730/devtools/browser/f4839276-2f59-4b5d-8ebb-e136c479a808
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1666216794375	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1666216811740	Marionette	INFO	Stopped listening on port 1739
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666216831024	geckodriver	INFO	Listening on 127.0.0.1:2023
+1666216834224	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "2024" "-no-remote" "-profile" "C:\\Users\\ACER\\AppData\\Local\\Temp\\rust_mozprofileUdky95"
+1666216834860	Marionette	INFO	Marionette enabled
+1666216834870	Marionette	INFO	Listening on port 2035
+WebDriver BiDi listening on ws://127.0.0.1:2024
+1666216836239	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ACER\\AppData\\Local\\Temp\\rust_mozprofileUdky95\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:2024/devtools/browser/a249cc81-d3e0-4ee1-b123-4bcaf03a09b4
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1666216841137	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1666216884258	Marionette	INFO	Stopped listening on port 2035
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666216948237	geckodriver	INFO	Listening on 127.0.0.1:2543
+1666216951359	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "2544" "-no-remote" "-profile" "C:\\Users\\ACER\\AppData\\Local\\Temp\\rust_mozprofilepHTJvr"
+1666216952021	Marionette	INFO	Marionette enabled
+1666216952030	Marionette	INFO	Listening on port 2554
+WebDriver BiDi listening on ws://127.0.0.1:2544
+1666216957178	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ACER\\AppData\\Local\\Temp\\rust_mozprofilepHTJvr\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:2544/devtools/browser/75383889-d9aa-47c9-b40a-e9d406ee9a24
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1666216963755	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1666216973485	Marionette	INFO	Stopped listening on port 2554
+1666219507648	geckodriver	INFO	Listening on 127.0.0.1:5827
+1666219510660	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "5828" "-no-remote" "-profile" "C:\\Users\\ACER\\AppData\\Local\\Temp\\rust_mozprofileBaP8wf"
+1666219511370	Marionette	INFO	Marionette enabled
+1666219511375	Marionette	INFO	Listening on port 5837
+WebDriver BiDi listening on ws://127.0.0.1:5828
+1666219513020	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ACER\\AppData\\Local\\Temp\\rust_mozprofileBaP8wf\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:5828/devtools/browser/b6a67ba8-61bd-4299-b4d4-15ab1ddf64a8
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1666219545345	Marionette	INFO	Stopped listening on port 5837
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666219583795	geckodriver	INFO	Listening on 127.0.0.1:5975
+1666219586830	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "5976" "-no-remote" "-profile" "C:\\Users\\ACER\\AppData\\Local\\Temp\\rust_mozprofileaTYuCW"
+1666219587415	Marionette	INFO	Marionette enabled
+1666219587422	Marionette	INFO	Listening on port 5984
+WebDriver BiDi listening on ws://127.0.0.1:5976
+1666219588796	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ACER\\AppData\\Local\\Temp\\rust_mozprofileaTYuCW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:5976/devtools/browser/c7f946c3-db1f-49ea-9ad5-660c791a08f5
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1666219624521	Marionette	INFO	Stopped listening on port 5984
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 6516, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1666219710588	geckodriver	INFO	Listening on 127.0.0.1:6349
+1666219713806	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "6350" "-no-remote" "-profile" "C:\\Users\\ACER\\AppData\\Local\\Temp\\rust_mozprofilecBYNLf"
+1666219714370	Marionette	INFO	Marionette enabled
+1666219714377	Marionette	INFO	Listening on port 6359
+WebDriver BiDi listening on ws://127.0.0.1:6350
+1666219718680	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ACER\\AppData\\Local\\Temp\\rust_mozprofilecBYNLf\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:6350/devtools/browser/3de35bfe-e8d1-4d5c-b340-62ff8f35591c
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1666219782979	Marionette	INFO	Stopped listening on port 6359
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+[Parent 9308, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1666219953152	geckodriver	INFO	Listening on 127.0.0.1:6766
+1666219956675	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "6767" "-no-remote" "-profile" "C:\\Users\\ACER\\AppData\\Local\\Temp\\rust_mozprofileeKENd7"
+1666219957400	Marionette	INFO	Marionette enabled
+1666219957410	Marionette	INFO	Listening on port 6776
+WebDriver BiDi listening on ws://127.0.0.1:6767
+1666219959097	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ACER\\AppData\\Local\\Temp\\rust_mozprofileeKENd7\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:6767/devtools/browser/5ea57087-af9e-4a60-bc3b-4dcfea4fbae7
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1666219976296	Marionette	INFO	Stopped listening on port 6776
+!!! error running onStopped callback: TypeError: callback is not a function
+[Parent 15004, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1666220032923	geckodriver	INFO	Listening on 127.0.0.1:7070
+1666220035901	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "7071" "-no-remote" "-profile" "C:\\Users\\ACER\\AppData\\Local\\Temp\\rust_mozprofileR9rkJ4"
+1666220038775	Marionette	INFO	Marionette enabled
+1666220038780	Marionette	INFO	Listening on port 7081
+WebDriver BiDi listening on ws://127.0.0.1:7071
+1666220040364	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ACER\\AppData\\Local\\Temp\\rust_mozprofileR9rkJ4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:7071/devtools/browser/12ee6ee5-0dea-4cba-a9f2-20d7e83d3a39
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1666220056638	Marionette	INFO	Stopped listening on port 7081
+[Parent 8376, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1666220175414	geckodriver	INFO	Listening on 127.0.0.1:7450
+1666220178755	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "7451" "-no-remote" "-profile" "C:\\Users\\ACER\\AppData\\Local\\Temp\\rust_mozprofile1Upu57"
+1666220179141	Marionette	INFO	Marionette enabled
+1666220179147	Marionette	INFO	Listening on port 7461
+WebDriver BiDi listening on ws://127.0.0.1:7451
+1666220181446	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ACER\\AppData\\Local\\Temp\\rust_mozprofile1Upu57\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:7451/devtools/browser/a7ac2210-11dc-4899-bc96-88a2417b69a3
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1666220197278	Marionette	INFO	Stopped listening on port 7461
+[Parent 2292, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1666220262040	geckodriver	INFO	Listening on 127.0.0.1:7885
+1666220265088	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "7886" "-no-remote" "-profile" "C:\\Users\\ACER\\AppData\\Local\\Temp\\rust_mozprofilea473es"
+1666220265506	Marionette	INFO	Marionette enabled
+1666220265513	Marionette	INFO	Listening on port 7894
+WebDriver BiDi listening on ws://127.0.0.1:7886
+1666220266148	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ACER\\AppData\\Local\\Temp\\rust_mozprofilea473es\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:7886/devtools/browser/8be8fa98-17f4-4f56-aef5-3ceb44b66b76
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1666220331379	Marionette	INFO	Stopped listening on port 7894
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 9004, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1666220332519	geckodriver	INFO	Listening on 127.0.0.1:8187
+1666220335580	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "8188" "-no-remote" "-profile" "C:\\Users\\ACER\\AppData\\Local\\Temp\\rust_mozprofileAuq59m"
+1666220336960	Marionette	INFO	Marionette enabled
+1666220336968	Marionette	INFO	Listening on port 8197
+WebDriver BiDi listening on ws://127.0.0.1:8188
+1666220337605	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ACER\\AppData\\Local\\Temp\\rust_mozprofileAuq59m\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:8188/devtools/browser/295480a2-f1bb-4e7d-904a-bce0b96ef979
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1666220401656	Marionette	INFO	Stopped listening on port 8191666220404244	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "8485" "-no-remote" "-profile" "C:\\Users\\ACER\\AppData\\Local\\Temp\\rust_mozprofileynk8xO"
+1666220406010	Marionette	INFO	Marionette enabled
+1666220406021	Marionette	INFO	Listening on port 8494
+WebDriver BiDi listening on ws://127.0.0.1:8485
+1666220407542	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ACER\\AppData\\Local\\Temp\\rust_mozprofileynk8xO\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:8485/devtools/browser/dfe64b92-3c52-4d02-b3de-ee1f324b5af6
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1666220423294	Marionette	INFO	Stopped listening on port 8494
